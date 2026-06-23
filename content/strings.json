@@ -5,6 +5,6 @@
   },
   "description": {
     "type": "meta",
-    "value": "This project defines and validates the Zod schemas used throughout the"
+    "value": "This project defines and validates the Zod schemas used throughout the DevContracts framework.  dev-contracts-spec is a core component of the larger DevContracts project.  Its primary responsibility at this stage is to provide the canonical Zod type definitions that represent …"
   }
 }
