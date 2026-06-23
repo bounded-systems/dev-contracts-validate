@@ -1,0 +1,10 @@
+{
+  "name": {
+    "type": "name",
+    "value": "Dev Contracts Validate"
+  },
+  "description": {
+    "type": "meta",
+    "value": "This project defines and validates the Zod schemas used throughout the"
+  }
+}
